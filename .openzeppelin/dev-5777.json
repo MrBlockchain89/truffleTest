@@ -1,0 +1,33 @@
+{
+  "contracts": {},
+  "solidityLibs": {},
+  "proxies": {
+    "truffleTest/Migrations": [
+      {
+        "address": "0x29219C4F887f2333C45731C5bC4B881810ea03A8",
+        "kind": "NonProxy",
+        "bytecodeHash": "910b5ce73a1e9b71e1c5f3fc594885b52869c9acb3e9111e02b27cb8105b35ed"
+      },
+      {
+        "address": "0x56b02866EeAA9Dcf2f7577E1aDCDB1DBfe27D02f",
+        "kind": "NonProxy",
+        "bytecodeHash": "ce105ae4173a2f514661b062a376328100da2c4e9077a15b6e57a83cb3f64106"
+      }
+    ],
+    "truffleTest/Auth": [
+      {
+        "address": "0x22E39885Cbc8C6E86142090F8c19793Ed679C139",
+        "kind": "NonProxy",
+        "bytecodeHash": "66306d4998700439b2b6f8264e789a2d5661fcabb3cbbfea6f7ca2a7fa203fcb"
+      }
+    ],
+    "truffleTest/Box": [
+      {
+        "address": "0xA741940142CcD33A321A5d269AE4B6520cFdaE38",
+        "kind": "NonProxy",
+        "bytecodeHash": "a53aaa51da2583561d0e8dd8811b5a663aad841574d57e925c65aa531045ac6a"
+      }
+    ]
+  },
+  "manifestVersion": "2.2"
+}
